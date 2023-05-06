@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0282b780.css",
+    "main.js": "/static/js/main.1eb00048.js",
+    "static/media/tintin.ttf": "/static/media/tintin.07c4433d6ba436b575ad.ttf",
+    "static/media/tintinbold.ttf": "/static/media/tintinbold.666d0cb8a43992b9d808.ttf",
+    "index.html": "/index.html",
+    "main.0282b780.css.map": "/static/css/main.0282b780.css.map",
+    "main.1eb00048.js.map": "/static/js/main.1eb00048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0282b780.css",
+    "static/js/main.1eb00048.js"
+  ]
+}
