@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rigiOfTheNight/static/css/main.9cc0a5df.css",
+    "main.js": "/rigiOfTheNight/static/js/main.1eb00048.js",
+    "static/media/tintin.ttf": "/rigiOfTheNight/static/media/tintin.07c4433d6ba436b575ad.ttf",
+    "static/media/tintinbold.ttf": "/rigiOfTheNight/static/media/tintinbold.666d0cb8a43992b9d808.ttf",
+    "index.html": "/rigiOfTheNight/index.html",
+    "main.9cc0a5df.css.map": "/rigiOfTheNight/static/css/main.9cc0a5df.css.map",
+    "main.1eb00048.js.map": "/rigiOfTheNight/static/js/main.1eb00048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc0a5df.css",
+    "static/js/main.1eb00048.js"
+  ]
+}
