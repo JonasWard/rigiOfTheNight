@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9cc0a5df.css","mappings":"AAAA,WACE,kBAAqB,CACrB,qEACF,CAEA,WACE,sBAAyB,CACzB,yEACF","sources":["index.css"],"sourcesContent":["@font-face {\n  font-family: \"TinTin\";\n  src: url(\"fonts/tintin.ttf\");\n}\n\n@font-face {\n  font-family: \"TinTinBold\";\n  src: url(\"fonts/tintinbold.ttf\");\n}"],"names":[],"sourceRoot":""}

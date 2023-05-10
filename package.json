@@ -1,12 +1,17 @@
 {
-  "name": "r0yekozrw",
+  "homepage": "https://jonasward.github.io/rigiOfTheNight",
+  "name": "rigiofthenight",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts --max-old-space-size=8192 start",
-    "build": "react-scripts --max-old-space-size=8192 build"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "gh-pages": "^5.0.0",
